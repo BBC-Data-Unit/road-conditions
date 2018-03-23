@@ -19,6 +19,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * The Northern Echo:[North-East councils 'would have spend nearly £1bn' to fix pothole problem](http://www.thenorthernecho.co.uk/news/local/southdurham/spennymoor/16100111.Councils___39_would_have_spend_nearly___1bn__39__to_fix_pothole_problem/) 20 March
 * Bob FM: [Potholes, bumps and lumps: Why it's claimed 1-in-5 local roads are in a poor condition](http://www.bobfm.co.uk/news/local-news/potholes-bumps-and-lumps-why-its-claimed-1-in-5-local-roads-are-in-a-poor-condition/) 20 March
 * Southern Daily Echo: [Hampshire County Council transport chief Rob Humby slams lack of funding for state of county's roads](http://www.dailyecho.co.uk/news/16100166.Transport_chief_slams_lack_of_funding_for_state_of_county__39_s_roads/) 21 March
+* Worcester News: [Worcestershire has some of the best kept roads in the region, new figures show](http://www.worcesternews.co.uk/news/16103570.Worcestershire_has_some_of_the_best_kept_roads_in_the_region__new_figures_show/) 21 March
+* South Wales Argus: [150 miles of roads across Gwent in 'poor condition'](http://www.southwalesargus.co.uk/news/16102658.150_miles_of_roads_across_Gwent_in__poor_condition_/) 21 March
 
 
 ## Get the data
