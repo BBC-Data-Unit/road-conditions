@@ -25,6 +25,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Wrexham: The Leader: [Wrexham has some of the worst potholes in Wales](http://www.leaderlive.co.uk/news/16112862.Wrexham_has_some_of_the_worst_potholes_in_Wales/) *23 March*
 * Edinburgh Evening News: [Edinburgh Council on potholes: ‘We’re getting better, but we can improve’](https://www.edinburghnews.scotsman.com/our-region/edinburgh/edinburgh-council-on-potholes-we-re-getting-better-but-we-can-improve-1-4711250) *23 March*
 * Romsey Advertiser: [Transport chief blames government funding in pothole row](http://www.romseyadvertiser.co.uk/news/16115610.transport-chief-blames-government-funding-in-pothole-row/) *26 March*
+* The story was also covered by: BBC News at Six, BBC Westmidlands, BBC Wales and BBC Radio Kent.
+
 
 
 
