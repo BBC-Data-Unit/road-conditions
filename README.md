@@ -21,6 +21,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Southern Daily Echo: [Hampshire County Council transport chief Rob Humby slams lack of funding for state of county's roads](http://www.dailyecho.co.uk/news/16100166.Transport_chief_slams_lack_of_funding_for_state_of_county__39_s_roads/) 21 March
 * Worcester News: [Worcestershire has some of the best kept roads in the region, new figures show](http://www.worcesternews.co.uk/news/16103570.Worcestershire_has_some_of_the_best_kept_roads_in_the_region__new_figures_show/) 21 March
 * South Wales Argus: [150 miles of roads across Gwent in 'poor condition'](http://www.southwalesargus.co.uk/news/16102658.150_miles_of_roads_across_Gwent_in__poor_condition_/) 21 March
+* Staffs Live: [Increase in Stoke-on-Trent roads deemed poor due to ‘ridiculous’ potholes](https://staffslive.co.uk/2018/03/increase-in-stoke-on-trent-roads-deemed-poor-due-to-ridiculous-potholes/) 23 March
+* Wrexham: The Leader: [Wrexham has some of the worst potholes in Wales](http://www.leaderlive.co.uk/news/16112862.Wrexham_has_some_of_the_worst_potholes_in_Wales/) 23 March
+* Romsey Advertiser: [Transport chief blames government funding in pothole row](http://www.romseyadvertiser.co.uk/news/16115610.transport-chief-blames-government-funding-in-pothole-row/) 26 March
 
 
 ## Get the data
