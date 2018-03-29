@@ -31,10 +31,11 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Hampshire Chronicle: [County transport chief Cllr Rob Humby slams government funding for state of Hampshire's roads](http://www.hampshirechronicle.co.uk/news/16116190.County_transport_chief_slams_government_funding_for_state_of_Hampshire_s_roads/) *21 March*
 
 
-* The story was also covered by: BBC News at Six, BBC WM, BBC Wales and BBC Radio Kent.
+The story was also covered by: BBC News at Six, BBC WM, BBC Wales and BBC Radio Kent.
 
 
-* Non partner coverage:
+Non partner coverage:
+
 * Staffs Live: [Increase in Stoke-on-Trent roads deemed poor due to ‘ridiculous’ potholes](https://staffslive.co.uk/2018/03/increase-in-stoke-on-trent-roads-deemed-poor-due-to-ridiculous-potholes/) *23 March*
 * Coventry Observer: [Coventry will benefit from £300k fund to repair potholes and damaged roads](https://coventryobserver.co.uk/news/west-midlands-will-benefit-from-fund-to-repair-potholes-and-damaged-roads-5659/) *26 March*
 * Government Business: [10 per cent of local road network in poor condition](https://www.governmentbusiness.co.uk/news/20032018/10-cent-local-road-network-poor-condition) *20 March*
