@@ -27,6 +27,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Romsey Advertiser: [Transport chief blames government funding in pothole row](http://www.romseyadvertiser.co.uk/news/16115610.transport-chief-blames-government-funding-in-pothole-row/) *26 March*
 * Solihull Observer: [Solihull will benefit from £300k fund to repair potholes and damaged roads](https://solihullobserver.co.uk/news/west-midlands-will-benefit-from-fund-to-repair-potholes-and-damaged-roads-5659/) *26 March*
 * Bromsgrove Advertiser: [Worcestershire has some of the best kept roads in the region, new figures show](http://www.bromsgroveadvertiser.co.uk/news/16103570.worcestershire-has-some-of-the-best-kept-roads-in-the-region-new-figures-show/?ref=mr&lp=16) *21 March*
+* Free Press: [150 miles of roads across Gwent in 'poor condition'](http://www.freepressseries.co.uk/news/16102659.150_miles_of_roads_across_Gwent_in___39_poor_condition__39_/) *21 March*
 
 
 * The story was also covered by: BBC News at Six, BBC WM, BBC Wales and BBC Radio Kent.
