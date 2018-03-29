@@ -35,13 +35,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 
 * Non partner coverage:
-* Staffs Live: [Increase in Stoke-on-Trent roads deemed poor due to ‘ridiculous’ potholes]
-(https://staffslive.co.uk/2018/03/increase-in-stoke-on-trent-roads-deemed-poor-due-to-ridiculous-potholes/) *23 March*
+* Staffs Live: [Increase in Stoke-on-Trent roads deemed poor due to ‘ridiculous’ potholes](https://staffslive.co.uk/2018/03/increase-in-stoke-on-trent-roads-deemed-poor-due-to-ridiculous-potholes/) *23 March*
 * Coventry Observer: [Coventry will benefit from £300k fund to repair potholes and damaged roads](https://coventryobserver.co.uk/news/west-midlands-will-benefit-from-fund-to-repair-potholes-and-damaged-roads-5659/) *26 March*
-* Government Business: [10 per cent of local road network in poor condition]
-(https://www.governmentbusiness.co.uk/news/20032018/10-cent-local-road-network-poor-condition) *20 March*
-* Cycling Weekly: [Britain’s pothole crisis: Over 24,000 miles of road need urgent repair]
-(http://www.cyclingweekly.com/news/latest-news/britains-pothole-crisis-over-24000-miles-of-road-need-urgent-repair-373708) *20 March*
+* Government Business: [10 per cent of local road network in poor condition](https://www.governmentbusiness.co.uk/news/20032018/10-cent-local-road-network-poor-condition) *20 March*
+* Cycling Weekly: [Britain’s pothole crisis: Over 24,000 miles of road need urgent repair](http://www.cyclingweekly.com/news/latest-news/britains-pothole-crisis-over-24000-miles-of-road-need-urgent-repair-373708) *20 March*
 
 
 ## Get the data
