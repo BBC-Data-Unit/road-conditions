@@ -29,6 +29,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Bromsgrove Advertiser: [Worcestershire has some of the best kept roads in the region, new figures show](http://www.bromsgroveadvertiser.co.uk/news/16103570.worcestershire-has-some-of-the-best-kept-roads-in-the-region-new-figures-show/?ref=mr&lp=16) *21 March*
 * Free Press: [150 miles of roads across Gwent in 'poor condition'](http://www.freepressseries.co.uk/news/16102659.150_miles_of_roads_across_Gwent_in___39_poor_condition__39_/) *21 March*
 * Hampshire Chronicle: [County transport chief Cllr Rob Humby slams government funding for state of Hampshire's roads](http://www.hampshirechronicle.co.uk/news/16116190.County_transport_chief_slams_government_funding_for_state_of_Hampshire_s_roads/) *21 March*
+* Infrastructure Intelligence: [Scottish Government announces extra £10m for road maintenance following cold snap](http://www.infrastructure-intelligence.com/article/apr-2018/scottish-government-announces-extra-%C2%A310m-road-maintenance-following-cold-snap#) *6 April*
 
 
 The story was also covered by: BBC News at Six, BBC WM, BBC Wales and BBC Radio Kent.
