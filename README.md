@@ -42,6 +42,7 @@ Non-partner coverage:
 * Government Business: [10 per cent of local road network in poor condition](https://www.governmentbusiness.co.uk/news/20032018/10-cent-local-road-network-poor-condition) *20 March*
 * Cycling Weekly: [Britain’s pothole crisis: Over 24,000 miles of road need urgent repair](http://www.cyclingweekly.com/news/latest-news/britains-pothole-crisis-over-24000-miles-of-road-need-urgent-repair-373708) *20 March*
 * Infrastructure Intelligence: [Scottish Government announces extra £10m for road maintenance following cold snap](http://www.infrastructure-intelligence.com/article/apr-2018/scottish-government-announces-extra-%C2%A310m-road-maintenance-following-cold-snap#) *6 April*
+* World Highways: [UK government pledges pothole pounds](http://www.worldhighways.com/categories/maintenance-utility/news/uk-government-pledges-pothole-pounds/) *12 April*
 
 
 ## Get the data
